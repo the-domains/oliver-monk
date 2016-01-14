@@ -1,0 +1,28 @@
+name: Oliver Monk
+favicon: null
+layout_spectrum: 0.05769534572027624
+typography_spectrum: 0.38910236302763224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.02433208585716784
+  lightness: 0.5537121293600649
+  saturation: 0.966750992462039
+  rhythmicContrast: 0.31838704622350633
+purpose: []
